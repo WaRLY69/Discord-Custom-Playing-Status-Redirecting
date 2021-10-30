@@ -14,7 +14,7 @@
  
  ### HOW TO RUN?
 ### -> You can either run in command prompt in the same directory as the repository files and do 
-python main.py
+```python main.py```
  or You can also run it in VSC make sure u have discord presence and req extension there.
 ### -> Make sure your discord is running.
 ### -> Firstly run 
