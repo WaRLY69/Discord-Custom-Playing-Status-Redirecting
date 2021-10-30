@@ -1,0 +1,16 @@
+{
+    "client-id": " CLIENT OR BOT ID FROM DISCORD PORTAL ",
+    "large-image": "logo",
+    "large-image-text": "In-Game",
+    "small-image": null,
+    "small-image-text": null,
+    "details": " DETAILS U WANNA PROVIDE ",
+    "state": null,
+    "time": true,
+    "button": true,
+    "start_time": 0,
+    "buttons": [
+        {"label": "JOIN IN" , "url": " REDIRECTING URL "}
+		
+	]
+}
