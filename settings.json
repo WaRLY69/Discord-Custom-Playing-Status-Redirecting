@@ -10,7 +10,7 @@
     "button": true,
     "start_time": 0,
     "buttons": [
-        {"label": "JOIN IN" , "url": " REDIRECTING URL "}
+        {"label": "JOIN IN " , "url": " REDIRECTING URL "}
 		
 	]
 }
